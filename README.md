@@ -2,5 +2,4 @@
 
 My name's Ryli :)
 
-Every day I am exercising my mind, learning new concepts, and decoding challenging problems. The main language I have experience with is JavaScript. I am at a proficient level in regard to programming with React.js. My level of skill for Node.js is also steadily increasing. 
-I am always eager to improve my skills and creatively assess software to function at its highest capacity. 
+I'm a front-end web developer who specializes in designing and implementing features based on customer feedback while releasing weekly features to production. I have a deep investment in the success of my organization, and I take personal responsibility for my decisions, actions, and quality of work. I am proactive and collaborative, and I work across org boundaries effectively. I am also a quick learner who asks clarifying questions to discover and learn the details of not just my assignments, but also the adjacent areas.
